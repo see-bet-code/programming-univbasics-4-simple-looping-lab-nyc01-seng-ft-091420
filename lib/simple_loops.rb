@@ -13,7 +13,7 @@ def loop_message_n_times(message, num)
 end
 
 def output_array(message)
-  message.each{ |n| puts n}
+  message.each{ |n| puts n }
 end
 
 def return_string_array(array)
